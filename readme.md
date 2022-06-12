@@ -3,6 +3,15 @@
 <br/>
 <br/>
 <br/>
+
+- [x] Publish
+- [ ] Brainstorming 🧠
+- [ ] etc
+
+
+
+
+
 ---
 description: Keeping your images small with multi-stage images
 keywords: images, containers, best practices, multi-stage, multistage
